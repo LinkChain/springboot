@@ -7,6 +7,6 @@
 
 ## 项目说明
 - 项目hello为使用 [Eclipse搭建Spring Boot应用](http://www.jianshu.com/p/052fe1d45c5c)的项目源码。
-- 项目girl是慕课网上慕课网 [2小时学会Spring Boot](http://www.imooc.com/learn/767)视频教程和 [Spring Boot进阶之Web进阶]( http://www.imooc.com/learn/810)视频教程的源代码，其中项目 [liaoshixiong-girl-develop](/tree/master/girl/liaoshixiong-girl-develop/)是慕课网[2小时学会Spring Boot](http://www.imooc.com/learn/767)视频教程的源代码，项目 [liaoshixiong-girl-master](/tree/master/girl/liaoshixiong-girl-develop/)是慕课网 [Spring Boot进阶之Web进阶]( http://www.imooc.com/learn/810)视频教程的源代码。
+- 项目girl是慕课网上慕课网 [2小时学会Spring Boot](http://www.imooc.com/learn/767)视频教程和 [Spring Boot进阶之Web进阶]( http://www.imooc.com/learn/810)视频教程的源代码，其中项目 [liaoshixiong-girl-develop](tree/master/girl/liaoshixiong-girl-develop/)是慕课网[2小时学会Spring Boot](http://www.imooc.com/learn/767)视频教程的源代码，项目 [liaoshixiong-girl-master](tree/master/girl/liaoshixiong-girl-develop/)是慕课网 [Spring Boot进阶之Web进阶]( http://www.imooc.com/learn/810)视频教程的源代码。
 
 
