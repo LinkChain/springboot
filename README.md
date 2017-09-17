@@ -6,8 +6,8 @@ springboot项目是初学Spring Boot的学习和练习springboot的源码。Spri
 3. 微服务的入门级微框架
 
 ## 项目说明
-1.项目hello为使用 [Eclipse搭建Spring Boot应用] 的项目源码。
-2.项目girl是慕课网上慕课网 [2小时学会Spring Boot] 视频教程和 [Spring Boot进阶之Web进阶] 视频教程的源代码，其中项目 [liaoshixiong-girl-develop] 是慕课网 [2小时学会Spring Boot] 视频教程的源代码，项目 [liaoshixiong-girl-master] 是慕课网 [Spring Boot进阶之Web进阶] 视频教程的源代码。
+1.项目hello为使用 [Eclipse搭建Spring Boot应用][]的项目源码。
+2.项目girl是慕课网上慕课网 [2小时学会Spring Boot][]视频教程和 [Spring Boot进阶之Web进阶][]视频教程的源代码，其中项目 [liaoshixiong-girl-develop][]是慕课网 [2小时学会Spring Boot][]视频教程的源代码，项目 [liaoshixiong-girl-master][]是慕课网 [Spring Boot进阶之Web进阶][]视频教程的源代码。
 
 
 [Eclipse搭建Spring Boot应用]：http://www.jianshu.com/p/052fe1d45c5c
